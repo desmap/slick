@@ -1,6 +1,6 @@
 <img src='https://user-images.githubusercontent.com/43666255/51328119-f9242400-1a72-11e9-9961-118de7234044.png' width='18%'>
 
-### Vim/Neovim Colortheme–Truecolor, Stunning, Complete
+### _Vim/Neovim Colortheme–Truecolor, Stunning and Complete_
 
 Slick is a toned-down color scheme for Vim/Neovim. It's one of the most consistent and complete themes I've ever used. It supports many languages and plugins. Fork fixes minor issues and adds new stuff (i.e. EasyMotion support) compared to the initial theme.
 
