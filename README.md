@@ -4,13 +4,12 @@
 Slick is a toned-down color scheme for Vim/Neovim. It's one of the most consistent and complete themes I've ever used. It supports many languages and plugins. Fork fixes minor issues from the original theme. 
 
 <img width='62%' src='http://stuff.imeos.org/persistent/github/vim-colors-tone/vim-colors-tone-ruby-preview.png'>  
-*Ruby*
+
 
 <img width='62%' src='http://stuff.imeos.org/persistent/github/vim-colors-tone/vim-colors-tone-javascript-preview.png'>
-*JS*
+
 
 <img width='62%' src='http://stuff.imeos.org/persistent/github/vim-colors-tone/vim-colors-tone-c-preview.png'>  
-*C*
 
 ## Supports these plugins out of the box
 
