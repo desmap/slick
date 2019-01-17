@@ -10,7 +10,7 @@ Finding the right colortheme for Vim/Neovim can be quite some odyssey. There are
 
 - **Complete UI**, all UI elements have the right color, even not so obvious stuff like modals, sign columns, 80-chars-column, cursourline and -columns
 - **All major languages** are supported with granular highlighting, man, even vim-plug within VimScript!
-- **Reduced color set**, it's not cramming dozens of random colors together but super finetuned
+- **Reduced color set**, it's not cramming dozens random, muddy colors, enjoy crystal clear colors paired w/matching tones  
 
 ### Gallery
 
@@ -57,7 +57,7 @@ to your .vimrc/init.vim, restart Vim/Neovim and run `:PlugInstall` in your .vimr
 - Git
 - Haml
 - HTML
-- JavaScript (best with pangloss/vim-javascript)
+- JavaScript/JSX (best with pangloss/vim-javascript)
 - Json
 - LaTeX
 - Markdown
