@@ -37,11 +37,12 @@ let colorgroup = {}
 let colorgroup['Normal']       = {"GUIFG": _white,     "GUIBG":  _black}
 " ------------------------
 let colorgroup['Darker']       = {"GUIFG": _gray,      "GUIBG":  _black}
-let colorgroup['ColorColumn']  = {"GUIFG": _black, "GUIBG":  _aubergine}
+let colorgroup['ColorColumn']  = {"GUIFG": _black, "GUIBG":  _semiblack}
 let colorgroup['Conceal']      = {"GUIFG": _sap,        "GUI": "bold"}
 let colorgroup['Cursor']       = {"GUIFG": _black, "GUIBG":  _turquoise}
 let colorgroup['iCursor']       = {"GUIFG": _black, "GUIBG":  _turquoise}
-let colorgroup['CursorLine']   = {"GUIFG": _white,     "GUIBG":  _semiblack}
+let colorgroup['CursorLine']   = {"GUIBG":  _semiblack}
+let colorgroup['CursorColumn']   = {"GUIFG": _white,     "GUIBG":  _semiblack}
 let colorgroup['CursorLineNr'] = {"GUIFG": _gray_dark, "GUIBG":  _black}
 let colorgroup['Directory']    = {"GUIFG": _turquoise,   "GUIBG":  _black}
 let colorgroup['ErrorMsg']     = {"GUIFG": _black, "GUIBG":  _aubergine}
@@ -51,7 +52,7 @@ let colorgroup['LineNr']       = {"GUIFG": _lightblack, "GUIBG":  _black}
 if &background == "light"
   let colorgroup['LineNr']       = {"GUIFG": _gray, "GUIBG":  _black}
 endif
-let colorgroup['MatchParen']   = {"GUIFG": _black, "GUIBG":  _white}
+let colorgroup['MatchParen']   = {"GUIFG": _black, "GUIBG":  _turquoise}
 let colorgroup['ModeMsg']      = {"GUIFG": _black, "GUIBG":  _turquoise}
 let colorgroup['Pmenu']        = {"GUIFG": _white,     "GUIBG":  _gray_dark}
 let colorgroup['PmenuSel']     = {"GUIFG": _black, "GUIBG":  _turquoise}
