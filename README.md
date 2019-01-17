@@ -1,5 +1,5 @@
 ## Slick
-### Vim/Neovim Truecolor Colortheme
+### Vim/Neovim Colortheme–Truecolor, Stunning, Complete
 
 Slick is a toned-down color scheme for Vim/Neovim. It's one of the most consistent and complete themes I've ever used. It supports many languages and plugins. Fork fixes minor issues from the original theme. 
 
