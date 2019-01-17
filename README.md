@@ -1,7 +1,7 @@
 ## Slick
 ### Vim/Neovim Colortheme–Truecolor, Stunning, Complete
 
-Slick is a toned-down color scheme for Vim/Neovim. It's one of the most consistent and complete themes I've ever used. It supports many languages and plugins. Fork fixes minor issues from the original theme. 
+Slick is a toned-down color scheme for Vim/Neovim. It's one of the most consistent and complete themes I've ever used. It supports many languages and plugins. Fork fixes minor issues and adds new stuff (i.e. EasyMotion support) compared to the initial theme.
 
 <img width='62%' src='http://stuff.imeos.org/persistent/github/vim-colors-tone/vim-colors-tone-ruby-preview.png'>  
 
@@ -15,6 +15,7 @@ Slick is a toned-down color scheme for Vim/Neovim. It's one of the most consiste
 
 - Ale
 - CtrlP
+- EasyMotion
 - GitGutter
 - NERDTree
 - pangloss/vim-javascript

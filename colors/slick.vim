@@ -134,6 +134,15 @@ hi link Typedef               Type
 " Plugins
 " ----------------------------------------------------------------------
 
+" EasyMotion
+
+hi link EasyMotionTarget String
+hi link EasyMotionTarget2First String
+hi link EasyMotionTarget2Second Label
+hi link EasyMotionShade NonText
+hi link EasyMotionIncSearch String
+hi link EasyMotionMoveHL Label
+
 " CtrlP
 hi link CtrlPMatch             Character
 
