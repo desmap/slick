@@ -1,8 +1,7 @@
-" Vim color scheme Tone
-" ----------------------------------------------------------------------
+" Slick
+" Vim/Neovim Truecolor Colortheme
 "
-" Repository: https://github.com/cseelus/vim-colors-tone
-" Author:     Chris Seelus (@cseelus)
+" @desmap forked from @cseelus
 "
 " colors
 " --------------------------
