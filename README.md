@@ -21,6 +21,21 @@ Finding the right colortheme for Vim/Neovim can be quite some odyssey. There are
 
 <img width='62%' src='http://stuff.imeos.org/persistent/github/vim-colors-tone/vim-colors-tone-c-preview.png'>  
 
+### Install
+#### Install with vim-plug
+Add
+```
+Plug 'desmap/slick'
+```
+to your .vimrc/init.vim, restart Vim/Neovim and run `:PlugInstall` in your .vimrc/init.vim file and set the colortheme with `:color slick`.
+
+#### Install with Vundle
+Add
+```
+Plugin 'desmap/slick'
+```
+to your .vimrc/init.vim, restart Vim/Neovim and run `:PlugInstall` in your .vimrc/init.vim file and set the colortheme with `:color slick`.
+
 ### Supports these plugins out of the box
 
 - Ale
