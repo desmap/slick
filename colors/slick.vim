@@ -29,8 +29,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-set t_Co=256
-let colors_name = "tone"
+let colors_name = "slick"
 let colorgroup = {}
 
 " Interface
