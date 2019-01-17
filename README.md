@@ -1,5 +1,5 @@
-# Slick
-## Vim/Neovim Truecolor Colortheme
+## Slick
+### Vim/Neovim Truecolor Colortheme
 
 Slick is a toned-down color scheme for Vim/Neovim. It's one of the most consistent and complete themes I've ever used. It supports many languages and plugins. Fork fixes minor issues from the original theme. 
 
@@ -11,7 +11,7 @@ Slick is a toned-down color scheme for Vim/Neovim. It's one of the most consiste
 
 <img width='62%' src='http://stuff.imeos.org/persistent/github/vim-colors-tone/vim-colors-tone-c-preview.png'>  
 
-## Supports these plugins out of the box
+### Supports these plugins out of the box
 
 - Ale
 - CtrlP
@@ -22,7 +22,7 @@ Slick is a toned-down color scheme for Vim/Neovim. It's one of the most consiste
 - Startify
 - VIM-JavaScript (pangloss)
 
-## Turn-key ready for many languages
+### Turn-key ready for many languages
 
 - Apache Config
 - CoffeeScript
@@ -43,6 +43,6 @@ Slick is a toned-down color scheme for Vim/Neovim. It's one of the most consiste
 - YAML
 - XML
 
-## Use CSApprox if you don't have truecolor
+### Use CSApprox if you don't have truecolor
 
 You can use a plugin like [CSApprox](http://www.vim.org/scripts/script.php?script_id=2390) to make this work smoothly in older 256 colors or even 88 colors terminals. 
