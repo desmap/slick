@@ -43,6 +43,6 @@ Slick is a toned-down color scheme for Vim/Neovim. It's one of the most consiste
 - YAML
 - XML
 
-## Ancient Terminals
+## Use CSApprox if you don't have truecolor
 
-You can use a plugin like [CSApprox](http://www.vim.org/scripts/script.php?script_id=2390) to make this work smoothly in older 256 colors or even 88 colors terminals.
+You can use a plugin like [CSApprox](http://www.vim.org/scripts/script.php?script_id=2390) to make this work smoothly in older 256 colors or even 88 colors terminals. 
