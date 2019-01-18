@@ -93,7 +93,7 @@ let colorgroup['PreProc']      = {"GUIFG": _d_white}
 let colorgroup['Type']         = {"GUIFG": _d_white}
 let colorgroup['Special']      = {"GUIFG": _sap}
 let colorgroup['Underlined']   = {"GUIFG": _turquoise, "GUI": "underline"}
-let colorgroup['Error']        = {"GUIFG": _black, "GUIBG": _aubergine}
+let colorgroup['Error']        = {"GUIFG": _white, "GUIBG": _aubergine}
 
 " Other highlighting groups
 let colorgroup['Access']       = {"GUIFG": _turquoise, "GUI": "bold"}
