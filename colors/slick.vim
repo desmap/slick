@@ -139,7 +139,7 @@ hi link Typedef               Type
 hi link EasyMotionTarget String
 hi link EasyMotionTarget2First String
 hi link EasyMotionTarget2Second Label
-hi link EasyMotionShade NonText
+hi link EasyMotionShade Comment
 hi link EasyMotionIncSearch String
 hi link EasyMotionMoveHL Label
 
