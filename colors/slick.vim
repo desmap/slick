@@ -103,7 +103,6 @@ let colorgroup['Define']       = {"GUIFG": _gray_light}
 let colorgroup['Function']     = {"GUIFG": _sky, "GUI": "bold"}
 let colorgroup['Label']        = {"GUIFG": _d_turquoise}
 let colorgroup['Module']       = {"GUIFG": _aubergine, "GUI": "underline"}
-let colorgroup['NonText']      = {"GUIFG": _gray_dark}
 let colorgroup['String']       = {"GUIFG": _turquoise}
 let colorgroup['Structure']    = {"GUIFG": _gray}
 " Own highlighting groups
