@@ -63,6 +63,7 @@ let colorgroup['StatusLineNC'] = {"GUIFG": _gray_dark, "GUIBG":  _black}
 let colorgroup['Title']        = {"GUIFG": _turquoise, "GUI": "bold"}
 let colorgroup['Todo']         = {"GUIFG": _black, "GUIBG":  _sky, "GUI": "italic"}
 let colorgroup['VertSplit']    = {"GUIFG": _black,      "GUIBG":  _black}
+let colorgroup['EndOfBuffer']    = {"GUIFG": _black,      "GUIBG":  _black}
 let colorgroup['NonText']    = {"GUIFG": _lightblack,      "GUIBG":  _black}
 let colorgroup['Visual']       = {"GUIFG": _black, "GUIBG":  _sap}
 if &background == "light"
