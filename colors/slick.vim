@@ -51,7 +51,7 @@ let colorgroup['LineNr']       = {"GUIFG": _lightblack, "GUIBG":  _black}
 if &background == "light"
   let colorgroup['LineNr']       = {"GUIFG": _gray, "GUIBG":  _black}
 endif
-" let colorgroup['MatchParen']   = {"GUIFG": _black, "GUIBG":  _turquoise}
+let colorgroup['MatchParen']   = {"GUIFG": _turquoise, "GUIBG":  _black}
 let colorgroup['ModeMsg']      = {"GUIFG": _black, "GUIBG":  _turquoise}
 let colorgroup['Pmenu']        = {"GUIFG": _white,     "GUIBG":  _gray_dark}
 let colorgroup['PmenuSel']     = {"GUIFG": _black, "GUIBG":  _turquoise}
