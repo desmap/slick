@@ -16,7 +16,7 @@
 
 :let _aubergine   = '#c59dc5'
 :let _turquoise   = '#1fffd2'
-:let _d_turquoise = '#1be5bd'
+:let _d_turquoise = '#15b797'
 :let _l_sky       = '#9fd4ff'
 :let _sky         = '#6cbeff'
 :let _sap         = '#ebff00'
