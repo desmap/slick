@@ -143,7 +143,7 @@ hi link Typedef               Type
 hi link EasyMotionTarget EasyMotion1
 hi link EasyMotionTarget2First EasyMotion1
 hi link EasyMotionTarget2Second EasyMotion2
-hi link EasyMotionShade Comment
+hi link EasyMotionShade PreProc
 hi link EasyMotionIncSearch String
 hi link EasyMotionMoveHL EasyMotion1
 
