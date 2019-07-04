@@ -71,6 +71,9 @@ if &background == "light"
 endif
 let colorgroup['WarningMsg']   = {"GUIFG": _black, "GUIBG":  _sky}
 
+let colorgroup['EasyMotion1']      = {"GUIFG": _black, "GUIBG":  _turquoise}
+let colorgroup['EasyMotion2']      = {"GUIFG": _black, "GUIBG":  _d_turquoise}
+
 
 " Syntax
 " ----------------------------------------------------------------------
@@ -137,12 +140,12 @@ hi link Typedef               Type
 
 " EasyMotion
 
-hi link EasyMotionTarget String
-hi link EasyMotionTarget2First String
-hi link EasyMotionTarget2Second Label
+hi link EasyMotionTarget EasyMotion1
+hi link EasyMotionTarget2First EasyMotion1
+hi link EasyMotionTarget2Second EasyMotion2
 hi link EasyMotionShade Comment
 hi link EasyMotionIncSearch String
-hi link EasyMotionMoveHL Label
+hi link EasyMotionMoveHL EasyMotion1
 
 " CtrlP
 hi link CtrlPMatch             Character
