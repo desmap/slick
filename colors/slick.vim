@@ -71,7 +71,7 @@ if &background == "light"
 endif
 let colorgroup['WarningMsg']   = {"GUIFG": _black, "GUIBG":  _sky}
 
-let colorgroup['EasyMotion2']   = {"GUIFG": _turquoise, "GUIBG":  _gray_dark}
+let colorgroup['EasyMotion2']   = {"GUIFG": _turquoise, "GUIBG":  _semiblack}
 
 
 
