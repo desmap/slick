@@ -141,7 +141,7 @@ hi link Typedef               Type
 hi link EasyMotionTarget StatusLine
 hi link EasyMotionTarget2First StatusLine
 hi link EasyMotionTarget2Second String
-hi link EasyMotionShade Normal
+hi link EasyMotionShade PreProc
 hi link EasyMotionIncSearch String
 hi link EasyMotionMoveHL StatusLine
 
