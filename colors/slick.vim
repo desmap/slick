@@ -16,7 +16,7 @@
 
 :let _aubergine   = '#c59dc5'
 :let _turquoise   = '#1fffd2'
-:let _d_turquoise = '#15b797'
+:let _d_turquoise = '#0f876f'
 :let _l_sky       = '#9fd4ff'
 :let _sky         = '#6cbeff'
 :let _sap         = '#ebff00'
@@ -70,6 +70,8 @@ if &background == "light"
   let colorgroup['Visual']       = {"GUIFG": _white,     "GUIBG":  _sap}
 endif
 let colorgroup['WarningMsg']   = {"GUIFG": _black, "GUIBG":  _sky}
+
+let colorgroup['EasyMotion2']   = {"GUIFG": _turquoise, "GUIBG":  _d_turquoise}
 
 
 
