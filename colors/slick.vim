@@ -142,7 +142,7 @@ hi link Typedef               Type
 hi CocErrorFloat guifg=#ff0000
 hi CocWarningFloat guifg=#ffff00
 hi CocWarningSign  guifg=#ffff00
-:hi CocFloating guibg=#3a3a58
+hi CocFloating guibg=#3a3a58
 
 
 " EasyMotion
