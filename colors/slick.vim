@@ -13,7 +13,6 @@
 :let _lightblack  = '#3a3a58'
 :let _semiblack   = '#222234'
 :let _black       = '#181827'
-
 :let _aubergine   = '#c59dc5'
 :let _turquoise   = '#1fffd2'
 :let _d_turquoise = '#007d64'
@@ -39,9 +38,9 @@ let colorgroup['Darker']       = {"GUIFG": _gray,      "GUIBG":  _black}
 let colorgroup['ColorColumn']  = {"GUIFG": _black, "GUIBG":  _semiblack}
 let colorgroup['Conceal']      = {"GUIFG": _sap,        "GUI": "bold"}
 let colorgroup['Cursor']       = {"GUIFG": _black, "GUIBG":  _lightblack}
-let colorgroup['iCursor']       = {"GUIFG": _black, "GUIBG":  _lightblack}
+let colorgroup['iCursor']      = {"GUIFG": _black, "GUIBG":  _lightblack}
 let colorgroup['CursorLine']   = {"GUIBG":  _semiblack}
-let colorgroup['CursorColumn']   = {"GUIBG":  _semiblack}
+let colorgroup['CursorColumn'] = {"GUIBG":  _semiblack}
 let colorgroup['CursorLineNr'] = {"GUIFG": _gray_dark, "GUIBG":  _black}
 let colorgroup['Directory']    = {"GUIFG": _turquoise,   "GUIBG":  _black}
 let colorgroup['ErrorMsg']     = {"GUIFG": _black, "GUIBG":  _aubergine}
@@ -49,14 +48,14 @@ let colorgroup['FoldColumn']   = {                     "GUIBG":  _black}
 let colorgroup['Folded']       = {"GUIFG": _white,     "GUIBG":  _semiblack}
 let colorgroup['LineNr']       = {"GUIFG": _lightblack, "GUIBG":  _black}
 if &background == "light"
-  let colorgroup['LineNr']       = {"GUIFG": _gray, "GUIBG":  _black}
+  let colorgroup['LineNr']     = {"GUIFG": _gray, "GUIBG":  _black}
 endif
 let colorgroup['MatchParen']   = {"GUIFG": _turquoise, "GUIBG":  _black}
 let colorgroup['ModeMsg']      = {"GUIFG": _black, "GUIBG":  _turquoise}
 let colorgroup['Pmenu']        = {"GUIFG": _white,     "GUIBG":  _gray_dark}
 let colorgroup['PmenuSel']     = {"GUIFG": _black, "GUIBG":  _turquoise}
-let colorgroup['PmenuSbar']    = {                     "GUIBG":  _black}
-let colorgroup['Search']       = {                     "GUIBG":  _gray_dark, "GUI": "underline"}
+let colorgroup['PmenuSbar']    = {       "GUIBG":  _black}
+let colorgroup['Search']       = {"GUIBG":  _gray_dark, "GUI": "underline"}
 let colorgroup['SignColumn']   = {                     "GUIBG":  _black}
 let colorgroup['StatusLine']   = {"GUIBG": _turquoise,      "GUIFG":  _black}
 let colorgroup['StatusLineNC'] = {"GUIFG": _gray_dark, "GUIBG":  _black}
@@ -143,7 +142,7 @@ hi CocErrorFloat guifg=#ff0000
 hi CocWarningFloat guifg=#ffff00
 
 hi CocWarningSign guifg=#ffff00
-hi CocErrorSign guifg=#ff0000
+hi CocErrorSign guifg=#ff3333
 
 hi CocFloating guibg=#3a3a58
 
