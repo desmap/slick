@@ -138,6 +138,11 @@ hi link Typedef               Type
 " Plugins
 " ----------------------------------------------------------------------
 
+" coc.vim
+hi CocErrorFloat guibg=#550000 guifg=#ff0000
+hi CocWarningFloat guibg=#555500 guifg=#ffff00
+
+
 " EasyMotion
 
 hi link EasyMotionTarget StatusLine
