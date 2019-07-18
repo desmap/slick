@@ -139,9 +139,10 @@ hi link Typedef               Type
 " ----------------------------------------------------------------------
 
 " coc.vim
-hi CocErrorFloat guibg=#550000 guifg=#ff0000
-hi CocWarningFloat guibg=#555500 guifg=#ffff00
+hi CocErrorFloat guifg=#ff0000
+hi CocWarningFloat guifg=#ffff00
 hi CocWarningSign  guifg=#ffff00
+:hi CocFloating guibg=#3a3a58
 
 
 " EasyMotion
