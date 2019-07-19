@@ -148,7 +148,7 @@ hi CocFloating guibg=#3a3a58
 
 " sneak
 
-hi link Sneak StatusLine
+hi link Sneak EasyMotion2
 
 " EasyMotion
 
