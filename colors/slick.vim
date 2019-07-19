@@ -146,6 +146,10 @@ hi CocErrorSign guifg=#ff3333
 
 hi CocFloating guibg=#3a3a58
 
+" sneak
+
+hi link Sneak StatusLine
+
 " EasyMotion
 
 hi link EasyMotionTarget StatusLine
