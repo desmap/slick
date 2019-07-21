@@ -141,6 +141,9 @@ hi link Typedef               Type
 " Plugins
 " ----------------------------------------------------------------------
 
+" dirvish
+hi link DirvishArg Special
+
 " quick-scope
 hi link QuickScopePrimary AccentPrimary
 hi link QuickScopeSecondary AccentSecondary
@@ -155,7 +158,6 @@ hi CocErrorSign guifg=#ff3333
 hi CocFloating guibg=#3a3a58
 
 " sneak
-
 hi link Sneak WarningMsg
 
 " EasyMotion
