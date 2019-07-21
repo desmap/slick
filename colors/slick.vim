@@ -141,6 +141,10 @@ hi link Typedef               Type
 " Plugins
 " ----------------------------------------------------------------------
 
+" dirvish
+
+i" hi link DirvishArg EasyMotion2
+
 " quick-scope
 hi link QuickScopePrimary AccentPrimary
 hi link QuickScopeSecondary AccentSecondary
