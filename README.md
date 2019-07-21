@@ -39,8 +39,7 @@ to your .vimrc/init.vim, restart Vim/Neovim and run `:PlugInstall` in your .vimr
 
 ### Supports these plugins out of the box
 
-- dirvish
-- quic-scope
+- quick-scope
 - coc.vim
 - Ale
 - CtrlP
