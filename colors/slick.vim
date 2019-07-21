@@ -19,6 +19,8 @@
 :let _l_sky       = '#9fd4ff'
 :let _sky         = '#6cbeff'
 :let _sap         = '#ebff00'
+:let _poison      = '#7eb72fk'
+:let _l_poison    = '#AFFC41'
 
 set background=dark
 highlight clear
@@ -110,6 +112,8 @@ let colorgroup['String']       = {"GUIFG": _turquoise}
 let colorgroup['Structure']    = {"GUIFG": _gray}
 " Own highlighting groups
 let colorgroup['UnderlinedBold']   = {"GUIFG": _turquoise, "GUI": "underline,bold"}
+let colorgroup['AccentPrimary'] = {"GUIFG": _l_poison}
+let colorgroup['AccentSecondary'] = {"GUIFG": _poison}
 " ------------------------
 hi link Boolean               Number
 hi link Class                 Constant
@@ -136,6 +140,10 @@ hi link Typedef               Type
 
 " Plugins
 " ----------------------------------------------------------------------
+
+" quick-scope
+hi link QuickScopePrimary AccentPrimary
+hi link QuickScopeSecondary AccentSecondary
 
 " coc.vim
 hi CocErrorFloat guifg=#ff0000
