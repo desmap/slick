@@ -143,7 +143,7 @@ hi link Typedef               Type
 
 " dirvish
 
-i" hi link DirvishArg EasyMotion2
+" hi link DirvishArg Special
 
 " quick-scope
 hi link QuickScopePrimary AccentPrimary
