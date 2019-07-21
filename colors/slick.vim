@@ -19,7 +19,7 @@
 :let _l_sky       = '#9fd4ff'
 :let _sky         = '#6cbeff'
 :let _sap         = '#ebff00'
-:let _poison      = '#7eb72fk'
+:let _poison      = '#7eb72f'
 :let _l_poison    = '#AFFC41'
 
 set background=dark
