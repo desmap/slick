@@ -143,7 +143,7 @@ hi link Typedef               Type
 
 " dirvish
 
-" hi link DirvishArg Special
+hi link DirvishArg Special
 
 " quick-scope
 hi link QuickScopePrimary AccentPrimary
